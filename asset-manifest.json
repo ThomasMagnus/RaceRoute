@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/test-cra-project/static/css/main.31d6cfe0.css",
+    "main.js": "/test-cra-project/static/js/main.6824d168.js",
+    "static/js/592.6f0c6436.chunk.js": "/test-cra-project/static/js/592.6f0c6436.chunk.js",
+    "index.html": "/test-cra-project/index.html",
+    "main.6824d168.js.map": "/test-cra-project/static/js/main.6824d168.js.map",
+    "592.6f0c6436.chunk.js.map": "/test-cra-project/static/js/592.6f0c6436.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.6824d168.js"
+  ]
+}
